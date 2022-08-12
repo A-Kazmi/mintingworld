@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mintingworld/static/css/main.5b730c45.css",
+    "main.js": "/mintingworld/static/js/main.ceae61d8.js",
+    "index.html": "/mintingworld/index.html",
+    "main.5b730c45.css.map": "/mintingworld/static/css/main.5b730c45.css.map",
+    "main.ceae61d8.js.map": "/mintingworld/static/js/main.ceae61d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b730c45.css",
+    "static/js/main.ceae61d8.js"
+  ]
+}
